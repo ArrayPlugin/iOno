@@ -1,0 +1,23 @@
+name: iOno
+version: 0.3
+authors: [Array, Adamki11s]
+main: pl.array.bukkit.iono.IOno
+commands:
+    r:
+       description: Reloading the server.
+       usage:
+    day:
+       description: Sets server time to 12:00
+       usage:
+    night:
+       description: none
+       usage:
+    /help:
+       description: Help.
+       usage:
+    changelog:
+       description: Changelog.
+       usage:
+    tnt:
+       description: Allows/Disallows TNT on server
+       usage:
