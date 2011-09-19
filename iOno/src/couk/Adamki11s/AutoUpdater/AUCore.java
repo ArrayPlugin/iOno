@@ -20,6 +20,8 @@
  * 
  * Commercial Use:
  *    Please contact adam@adamki11s.co.uk
+ *    
+ *    The file has been edited by Adam Wychowaniec aka Array, with the permission of Adamki11s - especially for the plugin iOno.
  */
 
 package couk.Adamki11s.AutoUpdater;
